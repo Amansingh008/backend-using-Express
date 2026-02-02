@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Aman Singh",
+    "email": "aman@gmail.com",
+    "course": "FullStack"
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "email": "rohit@gmail.com",
+    "course": "IT"
+  },
+  {
+    "id": 3,
+    "name": "Priya Verma",
+    "email": "priya@gmail.com",
+    "course": "Data Science"
+  },
+  {
+    "id": 4,
+    "name": "John Doe",
+    "email": "Jhon@gmail.com",
+    "course": "Cyber"
+  }
+]
